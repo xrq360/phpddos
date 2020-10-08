@@ -1,0 +1,5 @@
+Host:shuju6.co
+port:80
+type:tcp
+time:5
+thread:30
