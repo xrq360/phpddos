@@ -1,10 +1,7 @@
-# phpddos
 
-基于php webshell的ddos攻击程序，包含控制端和客户端
+一个基于php webshell的ddos攻击程序，包含控制端和客户端，支持tcp、udp、cc攻击方式。
 
-
-
-# 文件解释
+## 文件解释
 
 1. Control.py：python写的控制端程序，可批量管理shell，显示攻击结果，具体见Result.png
 
