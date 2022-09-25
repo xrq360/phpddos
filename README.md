@@ -12,3 +12,7 @@ Clents.txt：控制端使用，里面是webshell的具体网站，可根据具�
 
 Client.php和Client_bs64.php：ddos客户端程序，支持tcp、udp、cc攻击方式。Client.php是明文版本，Client_bs64.php是base64加密后的程序，利于隐藏。
 
+
+### 攻击结果
+
+![Image text](Result.png)
